@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6786" started-at="2023-01-22T19:48:35Z" finished-at="2023-01-22T19:48:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6786" started-at="2023-01-22T19:48:35Z" finished-at="2023-01-22T19:48:42Z">
+      <class name="variousConcept.LearnLocator">
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcept.LearnLocator@546a03af]" name="init" is-config="true" duration-ms="4201" started-at="2023-01-22T13:48:35Z" finished-at="2023-01-22T13:48:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testLocator()[pri:0, instance:variousConcept.LearnLocator@546a03af]" name="testLocator" duration-ms="2575" started-at="2023-01-22T13:48:39Z" finished-at="2023-01-22T13:48:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLocator -->
+      </class> <!-- variousConcept.LearnLocator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
